@@ -1,1 +1,1 @@
-# SMTP_Bulk_Email
+# SMTP_Bulk_Email (UiPath)
